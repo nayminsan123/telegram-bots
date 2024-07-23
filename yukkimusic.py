@@ -6,11 +6,11 @@ import os
 os.system("clear")
 os.system("sleep 2")
 
-print ("\033[1;32mAUTHOR :  \033[1;34mDeleveoper By Rendy")
+print ("\033[1;32mAUTHOR :  \033[1;34mDeleveoper By NmS")
 print ("\033[1;33mTelegram : @FFmpegNotInstalled")
-print ("\033[1;34mINSTALL YUKKI MUSIC BOT")
+print ("\033[1;34mINSTALL NMS MUSIC BOT")
 print
-print ("INSTALL YUKKI..........")
+print ("INSTALL NMS..........")
 os.system("sleep 10")
 os.system("sudo pip3 install -U pip")
 os.system("sudo apt-get install screen -y")
